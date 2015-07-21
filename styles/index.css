@@ -1,0 +1,69 @@
+.navbar-inverse{
+background-image: none;
+background-color: rgba(1,1,1,0.5);
+	border-bottom-color: grey;
+}
+
+#tab-container-1{
+	margin-top: -42px;
+}
+
+#tab-container-1 a:link{
+	background-color: rgba(30,30,30,0.4);
+}
+
+#tab-container-1 li.active a:link{
+	background-color: rgba(255,255,255,1);
+}
+
+#mypic1{
+	border-radius: 10px;
+	height: 300px;
+}
+
+#footer{
+ margin-left: 0px;
+ margin-right: 0px;
+}
+
+#footer .navbar{
+	margin: 0px;
+	padding: 0px;
+	background-image:url(/Images/12.jpg);
+	background-repeat: repeat-x;
+}
+
+#log-in{
+	margin-top: 6px;
+}
+
+.custom-padding{
+	margin-bottom: 5px;
+}
+
+.heading{
+	text-align: center;
+}
+
+ #tab-container-1 .link-adjust a:link{
+	text-decoration: none;
+	background-color: rgba(0,0,0,0);
+}
+
+#footer{
+	background-image: url(/Images/math-programmers-engineers-unicorns-mathematician-programmer-engineer-unicorn-opinions.jpg);
+	margin-top: 30px;
+}
+
+strong{
+}
+
+#sports{
+	padding-top:50px;
+	padding-bottom: 50px;
+}
+
+#computers{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
